@@ -138,3 +138,6 @@ pnpm scan:export
   - [Dynamic Classes in Tailwind CSS](https://www.codeconcisely.com/posts/tailwind-css-dynamic-class/)
 - Typescript
   - [浅析TypeScript 4.9 satisfies操作符使用方法](https://blog.csdn.net/qq_21567385/article/details/127167237)
+  - [How to Live Reload TypeScript Node Server in Local Development](https://medium.com/@sudarshanadayananda/how-to-live-reload-typescript-node-server-bc40171fdb7)
+  - [Day03:【TypeScript 學起來】自動編譯 tsc + nodemon 好方便](https://ithelp.ithome.com.tw/articles/10263538)
+
